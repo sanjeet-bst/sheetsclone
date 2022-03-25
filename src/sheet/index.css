@@ -1,0 +1,49 @@
+
+
+td {
+    width: 100px;
+    height: 15px;
+    border: 1px solid gray;
+    margin: 0;
+}
+
+.ritz .waffle a {
+    color: inherit;
+}
+
+.ritz .waffle .s0 {
+    background-color: #ffffff;
+    text-align: right;
+    color: #000000;
+    font-family: 'Arial';
+    font-size: 10pt;
+    vertical-align: bottom;
+    white-space: nowrap;
+    direction: ltr;
+    padding: 2px 3px 2px 3px;
+}
+
+
+.focus {
+    border: 2px solid blue;
+}
+
+.context_menu {
+    width: 200px;
+    display: none;
+    box-shadow: 2px 2px 4px #000;
+    position: absolute;
+}
+
+.context_menu div {
+    padding: 5px;
+    background: #ddd;
+    border:1px solid gray;
+    cursor: pointer;
+}
+
+.context_menu div:hover {
+    background: #eee;
+}
+
+
